@@ -1,5 +1,5 @@
 # water_use_data
-Undergrad Research, California Water Use Data Analyses
+Undergrad Research, California Water Use Data Analysis
 
 Research Description: Examined supply & demand projections for normal and drought years for all California water utilities based on their UWMP. Results then indicated certain utilities whose UWMP are perhaps unviable.
 
